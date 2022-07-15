@@ -1,0 +1,8 @@
+Subject: Birthday wishes
+main body:Hey [NAME],
+
+Happy birthday! Have a wonderful time today and eat lots of cake!
+You successfully completed [AGE] years
+Lots of love,
+
+Angela

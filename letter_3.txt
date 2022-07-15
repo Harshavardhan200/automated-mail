@@ -1,0 +1,7 @@
+Subject: Birthday wishes
+main body:Dear [NAME],
+
+It's your birthday! Have a great day!
+You successfully completed [AGE] years
+All my love,
+Angela
